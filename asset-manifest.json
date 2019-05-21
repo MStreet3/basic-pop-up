@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/basic-pop-up/static/css/main.34de6062.chunk.css",
+    "main.js": "/basic-pop-up/static/js/main.812cab7e.chunk.js",
+    "main.js.map": "/basic-pop-up/static/js/main.812cab7e.chunk.js.map",
+    "runtime~main.js": "/basic-pop-up/static/js/runtime~main.c19bc2f6.js",
+    "runtime~main.js.map": "/basic-pop-up/static/js/runtime~main.c19bc2f6.js.map",
+    "static/css/2.266e55a5.chunk.css": "/basic-pop-up/static/css/2.266e55a5.chunk.css",
+    "static/js/2.28e7fc0f.chunk.js": "/basic-pop-up/static/js/2.28e7fc0f.chunk.js",
+    "static/js/2.28e7fc0f.chunk.js.map": "/basic-pop-up/static/js/2.28e7fc0f.chunk.js.map",
+    "index.html": "/basic-pop-up/index.html",
+    "precache-manifest.e496b0be94b049cf6cf4f67e59789af3.js": "/basic-pop-up/precache-manifest.e496b0be94b049cf6cf4f67e59789af3.js",
+    "service-worker.js": "/basic-pop-up/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/basic-pop-up/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/basic-pop-up/static/css/main.34de6062.chunk.css.map"
+  }
+}
