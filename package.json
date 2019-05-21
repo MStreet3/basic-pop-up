@@ -1,5 +1,5 @@
 {
-  "name": "collect-emails",
+  "name": "pop-up",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "reactstrap": "^5.0.0",
     "request-promise": "^4.2.4"
   },
-  "homepage": "https://mstreet3.github.io/collect-emails",
+  "homepage": "https://mstreet3.github.io/basic-pop-up",
   "lint-staged": {
     "{src,__mocks__,tests}/**/*.{js,json}": [
       "prettier --single-quote --arrow-parens=always --write",
